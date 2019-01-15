@@ -1,3 +1,4 @@
+@unit
 Feature: Learn cucumber
   As a student
   I want learn how to use cucumber
@@ -47,6 +48,6 @@ Feature: Learn cucumber
     Given that the ticket is CD123
     Given that the ticket is AG1234
     Given that the ticket price is R$ 11345,56
-    Given that the name of the passenger is "Beltrano Souza Matos de Alcântara Azevedo"
+    Given that the name of the passenger is "Beltrano Souza Matos de Alcï¿½ntara Azevedo"
     Given that the passenger's telephone number is 1234-5678
     Given that the passenger's phone number is 999-2223

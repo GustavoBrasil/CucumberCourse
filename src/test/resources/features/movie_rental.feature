@@ -1,3 +1,4 @@
+@unit
 Feature: Movie Rental
   
   How a user
