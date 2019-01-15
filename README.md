@@ -17,7 +17,7 @@ Introduce BDD through Cucumber and JAVA
 	2. Integrating with JUnit
 	3. CucumberOptions
 	4. Asserts
-        5. REGEX
+	5. REGEX
 	6. Transform
 	7. Improving flow of scenarios
 	8. Tags
