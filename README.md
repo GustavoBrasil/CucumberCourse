@@ -5,6 +5,37 @@ Teacher [Francisco Wagner Costa Aquino](https://www.udemy.com/user/francisco-wag
 
 ![alt text](https://tse4.mm.bing.net/th?id=OIP.HuQyl7_WMMzOfs8RIlQ-XAHaD4&pid=15.1&P=0&w=316&h=167)
 
+## Course Objective:
+Introduce BDD through Cucumber and JAVA
+
+## Lessons:
+1. Introduction
+	1. BDD e Cucumber
+	
+2. Fundamentals
+	1. Gherkin
+	2. Integrating with JUnit
+	3. CucumberOptions
+	4. Asserts
+        5. REGEX
+	6. Transform
+	7. Improving flow of scenarios
+	8. Tags
+	
+3. BDD with Unitary Tests
+	1. Data-Driven
+	2. DataTable
+	3. Reports
+	4. Command Line Execution
+	
+4. Cucumber With Selenium
+	1. Hooks
+	2. Data Management for Testing
+	3. Context
+	4. Generalizing tests
+	5. Screenshots
+	6. Imperative scenarios x Declarative scenarios  
+
 ## Technologies used:
 1. Eclipse;
 2. Java;
