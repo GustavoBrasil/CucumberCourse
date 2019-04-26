@@ -6,7 +6,7 @@ Teacher [Francisco Wagner Costa Aquino](https://www.udemy.com/user/francisco-wag
 ![alt text](https://tse4.mm.bing.net/th?id=OIP.HuQyl7_WMMzOfs8RIlQ-XAHaD4&pid=15.1&P=0&w=316&h=167)
 
 ## ATENÇÃO
-Ao fazer o git clone do script, é necessário criar uma pasta com o nome de Resource em "src>main"
+Ao fazer o git clone do script, é necessário criar uma pasta com o nome de resource em " src > main"
 
 ## Course Objective:
 Introduce BDD through Cucumber and JAVA
